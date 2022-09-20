@@ -1,0 +1,19 @@
+{
+    "name": "Prathmesh Bhansali Logo B&W",
+    "symbol": "PBLGW",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "8sVBJ4tUe75BPyGm2Vn2jeouBiGkYyqh9Hhbtr9WpZo8",
+                "share": 100
+            }
+        ]
+    }
+}
